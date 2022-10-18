@@ -1,0 +1,59 @@
+body{
+  background-color: #5df0d7;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+  .container{
+  background-color: #159e7e;
+  justify-content: center;
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+  border-radius: 10px;
+  }
+
+  input[type=text], select {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing:border-box;
+  }
+
+  input[type=password], select {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing:border-box;
+  }
+
+  button{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 2px;
+    border-radius: 9px;
+    border: 1px solid rgb(2, 61, 56);
+    font-size: px;
+  }
+  button:hover {
+  background-color: #58aa9c;
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  }
+
+  .header{
+  
+  width: 95%;
+  background-color: #159e7e;
+  margin-left: 25%;
+  width: 50%;
+  padding: 1px 20px;
+  margin-top: 5%;
+  }
